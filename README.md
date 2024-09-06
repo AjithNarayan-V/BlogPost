@@ -64,7 +64,7 @@ This project is a fully functional blog platform designed for users to create, v
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/simple-blog-platform.git
+git clone https://github.com/AjithNarayan-V/blogpost.git
 ```
 
 ### Navigate to the Project Directory:
